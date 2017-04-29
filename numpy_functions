@@ -1,3 +1,5 @@
+#### Numpy functions developed/acquired to perform simple operations
+
 ```
 def delete_1st_arrayrow(arr):
     return np.delete(arr, np.s_[0:1], 0)   #delete row 0, axis=0
